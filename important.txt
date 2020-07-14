@@ -1,0 +1,8 @@
+navbar font-size
+xl,lg,md		sm		col
+22 px			20px	20px
+
+padding		tpp		bottom
+service/md  	100		130
+
+contact     100       100
